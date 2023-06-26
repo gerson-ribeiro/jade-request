@@ -1,0 +1,40 @@
+{
+  "name": "jade-request",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerson-ribeiro/jade-request.git"
+  },
+  "keywords": [
+    "ts",
+    "jade",
+    "integration",
+    "restful",
+    "rest",
+    "api",
+    "connection",
+    "XHR",
+    "React",
+    "Vue",
+    "Angular",
+    "requester",
+    "requests",
+    "request",
+    "requesting",
+    "backend",
+    "HTTP",
+    "HTTPClient",
+    "Client"
+  ],
+  "author": "Gerson Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerson-ribeiro/jade-request/issues"
+  },
+  "homepage": "https://github.com/gerson-ribeiro/jade-request#readme"
+}
