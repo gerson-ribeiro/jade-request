@@ -1,4 +1,4 @@
-export default {
+const StorageService = {
   get: (index) => {
     const obj = localStorage.getItem(index);
     return obj ? JSON.parse(obj) : null;
@@ -23,3 +23,4 @@ export default {
     sessionStorage.clear();
   },
 };
+export default StorageService;
